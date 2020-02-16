@@ -1,0 +1,44 @@
+html, body {
+  background-color: #0F2438;
+  color: white;
+  font-family: "PT Sans", "Helvetica", "Arial", sans-serif;
+}
+
+a {
+  color: white;
+}
+
+header {
+  border: 1px dashed white;
+  padding: 8px;
+  border-radius: 0 0 8px 8px;
+}
+
+footer {
+  border: 1px solid white;
+  padding: 16px;
+  text-align: center;
+  border-radius: 8px 8px 0 0;
+}
+
+main {
+  padding: 32px 16px;
+}
+
+.go-to-articles {
+  padding: 32px;
+  text-align: center;
+}
+
+.go-to-articles a {
+  font-size: 32px;
+}
+
+.article-list > div {
+  padding: 15px;
+}
+
+.article-list > div > a {
+  font-size: 18px;
+  font-weight: bold;
+}
