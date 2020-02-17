@@ -30,6 +30,8 @@ exports.createPages = async({actions: {createPage}}) => {
           ...article,
           content: {
             ...article.content,
+            // Don't do this at home :)
+            // You need to sanitize this HTML first
             long_text: marked(article.content.long_text)
           }
         }
