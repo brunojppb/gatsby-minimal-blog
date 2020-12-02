@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
-[![rapid prototyping with GatsbyJS](https://bpaulino.com/rapid-prototyping-gatsby-js/img/rapid-prototyping-with-gatsby.jpg)](https://bpaulino.com/rapid-prototyping-gatsby-js/)
+[![rapid prototyping with GatsbyJS](https://bpaulino.com/assets/images/posts/rapid-prototyping-with-gatsby.jpg)](https://bpaulino.com/rapid-prototyping-gatsby-js/)
 
 Demo created for the React Vienna Meetup Talk. [Slides here](https://bpaulino.com/rapid-prototyping-gatsby-js/)
 
